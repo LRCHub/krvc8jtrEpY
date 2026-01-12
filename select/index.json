@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Touring",
+  "base_artist": "Conton Candy",
+  "createdAt": "2026-01-12T11:56:45.641299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Touring Can Make You Crazy",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/01_Touring_Can_Make_You_Crazy_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Touring",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/02_Touring_Ramones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Touring (1981 version)",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/03_Touring_(1981_version)_Ramones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Touring",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/04_Touring_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touring (1981 Version) (Bonus Track)",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/05_Touring_(1981_Version)_(Bonus_Track)_Ramones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Touring",
+      "artist": "The Ramones",
+      "has_synced": true,
+      "path": "select/06_Touring_The_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Touring Is My Life (Live)",
+      "artist": "Dream Evil",
+      "has_synced": false,
+      "path": "select/07_Touring_Is_My_Life_(Live)_Dream_Evil.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So You're a Touring Band Now",
+      "artist": "Dolorean",
+      "has_synced": false,
+      "path": "select/08_So_You're_a_Touring_Band_Now_Dolorean.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Touring (1981 Version)",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/09_Touring_(1981_Version)_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Touring (feat. L33 Bdo)",
+      "artist": "Karma",
+      "has_synced": false,
+      "path": "select/10_Touring_(feat._L33_Bdo)_Karma.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Touring",
+      "artist": "Karma",
+      "has_synced": false,
+      "path": "select/11_Touring_Karma.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Touring (1981 Version)",
+      "artist": "The Ramones",
+      "has_synced": false,
+      "path": "select/12_Touring_(1981_Version)_The_Ramones.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Touring Galaxies With You",
+      "artist": "VDM",
+      "has_synced": true,
+      "path": "select/13_Touring_Galaxies_With_You_VDM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Touring",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/14_Touring_Ramones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Touring",
+      "artist": "Conton Candy",
+      "has_synced": false,
+      "path": "select/pl_01_Touring_Conton_Candy.txt"
+    }
+  ]
+}
